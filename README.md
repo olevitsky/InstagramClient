@@ -1,5 +1,5 @@
 Title: Read-only instagram client to fetch 'popular' photos
-![alt tag](https://github.com/olevitsky/InstagramClient/blob/master/InstagramClientDemoLICEEcap.gif)
+![alt tag](https://github.com/olevitsky/InstagramClient/blob/master/InstagramClientDemoLICEEcap_V2.gif)
 This client utilizes Instagram API's to fetch and display popular photos.
 Main features:
   1. Allows to scroll through the photos
